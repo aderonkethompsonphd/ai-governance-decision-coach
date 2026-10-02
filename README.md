@@ -108,5 +108,5 @@ The project is released under the [MIT License](LICENSE). Case-study scenarios a
 
 ## Author
 
-Dr Aderonke Thompson
+Aderonke Thompson, PhD
 
